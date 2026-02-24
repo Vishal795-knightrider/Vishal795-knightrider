@@ -1,10 +1,23 @@
-## 👋 About Me
+<h1 align="center">Hi 👋, I'm Vishal</h1>
+<h3 align="center">B.Tech CS Student | Full Stack Learner</h3>
 
-Hi, I'm Vishal — B.Tech CS student  
-🚀 Exploring React, Node.js, ML  
-💡 Interested in Open Source & Hackathons  
-📚 Currently learning Backend & DSA  
+---
 
+## 🔥 About Me
+
+- 🚀 Exploring React, Node.js, ML
+- 💡 Interested in Open Source & Hackathons
+- 📚 Currently learning Backend & DSA
+- 🎯 Goal: Become a strong Full Stack Developer
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINK)
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+
+---
 
 ## 💻 Tech Stack
 
@@ -17,21 +30,16 @@ Hi, I'm Vishal — B.Tech CS student
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
+---
 
 ## 📊 GitHub Stats
 
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishal795-knightrider&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Vishal795-knightrider&theme=radical" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
-
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/vishal-kashyap-aa8b43328/)
-
-[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:vk3293801@gmail.com)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal795-knightrider&theme=react-dark" />
+</p>
