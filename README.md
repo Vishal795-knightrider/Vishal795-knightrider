@@ -36,10 +36,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishal795-knightrider&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishal795-knightrider&show_icons=true&theme=radical&cache_seconds=1800" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Vishal795-knightrider&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal795-knightrider&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal795-knightrider&theme=react-dark" />
+</p>>
