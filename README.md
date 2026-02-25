@@ -36,7 +36,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishal795-knightrider&show_icons=true&theme=radical)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Vishal795-knightrider&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishal795-knightrider&theme=react-dark)
 </p>
 
 <p align="center">
