@@ -35,16 +35,20 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+![GitHub Streak](https://streak-stats.demolab.com?user=Vishal795-knightrider&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishal795-knightrider&theme=react-dark)
+
+<!-- <p align="center">
   ![GitHub Streak](https://streak-stats.demolab.com?user=Vishal795-knightrider&theme=radical)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishal795-knightrider&theme=react-dark)
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=Vishal795-knightrider&theme=radical" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal795-knightrider&theme=react-dark" />
-</p>>
+</p>> -->
