@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&vCenter=true&lines=B.Tech+CS+Student;Full+Stack+Learner;React+%7C+Node+%7C+ML;Open+Source+Enthusiast" />
 </p>
-<h3 align="center">B.Tech CS Student | Full Stack Learner</h3>
 
 ---
 
@@ -46,3 +45,11 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal795-knightrider&theme=react-dark" />
 </p>
+
+## 🏆 GitHub Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Vishal795-knightrider&theme=radical&margin-w=10)
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Vishal795-knightrider/Vishal795-knightrider/output/github-contribution-grid-snake.svg)
