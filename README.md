@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&vCenter=true&lines=B.Tech+CS+Student;Full+Stack+Learner;React+%7C+Node+%7C+ML;Open+Source+Enthusiast" />
+</p>
 <h3 align="center">B.Tech CS Student | Full Stack Learner</h3>
 
 ---
