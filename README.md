@@ -1,55 +1,55 @@
-<h1 align="center">Hi 👋, I'm Vishal</h1>
+<h1 align="center">Hi 👋, I'm Vishal Kashyap</h1>
+<h3 align="center">B.Tech Computer Science Student | Aspiring Full Stack Developer</h3>
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech CS Student  
+- 💻 Exploring Full Stack Development (React, Node.js)  
+- 🤖 Learning Machine Learning fundamentals  
+- 📚 Currently strengthening DSA & Backend  
+- 🎯 Goal: Become industry-ready developer  
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&vCenter=true&lines=B.Tech+CS+Student;Full+Stack+Learner;React+%7C+Node+%7C+ML;Open+Source+Enthusiast" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,react,nodejs,mongodb,mysql,git,github" />
 </p>
 
 ---
 
-## 🔥 About Me
-
-- 🚀 Exploring React, Node.js, ML
-- 💡 Interested in Open Source & Hackathons
-- 📚 Currently learning Backend & DSA
-- 🎯 Goal: Become a strong Full Stack Developer
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishal-kashyap-aa8b43328/)
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:vk3293801@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Vishal795-knightrider&theme=radical" />
 </p>
 
+---
+
+## 📈 Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal795-knightrider&theme=react-dark" />
 </p>
 
-## 🏆 GitHub Trophies
+---
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Vishal795-knightrider&theme=radical&margin-w=10)
+## 🌐 Connect With Me
 
-## 🐍 Contribution Snake
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-![Snake animation](https://raw.githubusercontent.com/Vishal795-knightrider/Vishal795-knightrider/output/github-contribution-grid-snake.svg)
+---
+
+<p align="center">
+  ⭐ Always open to collaboration and learning opportunities!
+</p>
