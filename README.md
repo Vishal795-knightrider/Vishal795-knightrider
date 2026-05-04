@@ -35,8 +35,9 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal795-knightrider&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" />
+  <img src="https://streak-stats.demolab.com?user=Vishal795-knightrider&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" />
 </p>
+
 ---
 
 ## 📈 Contribution Graph
