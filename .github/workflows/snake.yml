@@ -16,18 +16,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
+      - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Vishal795-knightrider
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light
+            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish snake
+      - name: Publish Snake
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          build_dir: dist
           target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
