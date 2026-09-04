@@ -6,7 +6,7 @@
 
 <p align="center">
   I build full-stack applications, explore AI/NLP,<br/>
-  and keep learning by building and shipping projects.
+  and learn by building real-world projects.
 </p>
 
 <p align="center">
@@ -21,73 +21,68 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a 3rd-year Computer Science student and Full Stack Developer.
+Hi, I'm Vishal — a 3rd-year Computer Science student and Full Stack Developer.
 
-I enjoy building real applications, learning by doing, and figuring out how things work under the hood.
+I enjoy turning ideas into working applications and learning how things work behind the scenes.  
+My main focus is full-stack development, backend systems, DSA, and exploring AI/NLP.
 
-Currently focused on:
+💼 Recently completed a **3-month Full Stack Development Internship at IISPPR**, where I worked with the MERN stack, responsive interfaces, and backend API integration.
 
-- 💻 Full Stack Development
-- ⚛️ React, Next.js & MERN
-- 🔧 Backend & REST APIs
-- 🧠 Data Structures & Algorithms
-- 🤖 Machine Learning & NLP
-- 🚀 Building and shipping real-world projects
-
-Recently completed a **3-month Full Stack Development Internship at IISPPR**, where I worked with the MERN stack, responsive UI and backend API integration.
+🚀 **Currently:** Building projects, improving my DSA skills, and exploring AI-powered applications.
 
 ---
 
-## ⚙️ Tech Stack
+## 🧠 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,html,css,tailwind" />
-</p>
 
----
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Development-8A2BE2?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-Practice-8A2BE2?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI%20%2F%20ML-Exploring-8A2BE2?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-Learning-8A2BE2?style=for-the-badge)
 
-## 📊 GitHub Dashboard
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Vishal795-knightrider&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="180"
-    alt="Vishal's GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal795-knightrider&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Vishal's Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Vishal795-knightrider&theme=tokyonight&hide_border=true"
-    alt="Vishal's GitHub Streak"
-  />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Vishal795-knightrider/Vishal795-knightrider/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 </p>
 
+---
+## 📊 GitHub Stats
+
 <p align="center">
-  <i>Eating commits, one contribution at a time 🐍</i>
-</p>
-<p align="center">
-  <i>Eating commits, one contribution at a time 🐍</i>
+  <img src="./profile/stats.svg" width="48%" />
+  <img src="./profile/top-langs.svg" width="48%" />
 </p>
 
 ---
@@ -95,37 +90,33 @@ Recently completed a **3-month Full Stack Development Internship at IISPPR**, wh
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal795-knightrider&bg_color=0d1117&color=7dd3fc&line=38bdf8&point=f8fafc&area=true&hide_border=true"
-    width="95%"
-    alt="Vishal's GitHub Activity Graph"
-  />
+  <img src="./profile/contributions.svg" width="95%" />
 </p>
 
----
-
-## 🔗 Connect With Me
+## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/Vishal795-knightrider">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 
-  <a href="https://www.linkedin.com/in/vishal-kashyap-aa8b43328/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<a href="https://github.com/Vishal795-knightrider">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-  <a href="https://x.com/VishalxKodes">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
+<a href="https://www.linkedin.com/in/vishal-kashyap-aa8b43328/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-  <a href="mailto:vk3293801@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<a href="https://x.com/VishalxKodes">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="mailto:vk3293801@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <sub>Build · Learn · Ship · Repeat.</sub>
+  <i>Build · Learn · Ship · Repeat 🚀</i>
 </p>
