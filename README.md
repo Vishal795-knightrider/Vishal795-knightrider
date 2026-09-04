@@ -19,7 +19,12 @@
   <a href="mailto:vk3293801@gmail.com">Email</a>
 </p>
 
----
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vishal795-knightrider&label=Profile%20Views&color=0e75b6&style=flat" alt="Vishal's Profile Views" />
+</p>
+
 
 ## 👨‍💻 About Me
 
@@ -32,7 +37,6 @@ My main focus is full-stack development, backend systems, DSA, and exploring AI/
 
 🚀 **Currently:** Building projects, improving my DSA skills, and exploring AI-powered applications.
 
----
 
 ## 🧠 Currently Learning
 
@@ -77,30 +81,53 @@ My main focus is full-stack development, backend systems, DSA, and exploring AI/
 
 </p>
 
----
+
 ## 📊 GitHub Stats
 
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="./profile/stats.svg"
+        width="100%"
+        alt="Vishal's GitHub Stats"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="./profile/top-langs.svg"
+        width="100%"
+        alt="Vishal's Top Languages"
+      />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🔥 GitHub Streak
+
 <p align="center">
   <img
-    src="./profile/stats.svg"
-    width="48%"
-    alt="Vishal's GitHub Stats"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    width="48%"
-    alt="Vishal's Top Languages"
+    src="https://streak-stats.demolab.com?user=Vishal795-knightrider&theme=tokyonight&hide_border=true"
+    width="90%"
+    alt="Vishal's GitHub Streak"
   />
 </p>
----
 
-## 📈 Contribution Graph
+<br/>
+
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="./profile/contributions.svg" width="95%" />
+  <img
+    src="./profile/activity-graph.svg"
+    width="100%"
+    alt="Vishal's 30-day GitHub Activity"
+  />
 </p>
 
-## 🤝 Let's Connect
+
 
 <p align="center">
 
