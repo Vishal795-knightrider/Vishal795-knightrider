@@ -81,10 +81,17 @@ My main focus is full-stack development, backend systems, DSA, and exploring AI/
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" width="48%" />
-  <img src="./profile/top-langs.svg" width="48%" />
+  <img
+    src="./profile/stats.svg"
+    width="48%"
+    alt="Vishal's GitHub Stats"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    width="48%"
+    alt="Vishal's Top Languages"
+  />
 </p>
-
 ---
 
 ## 📈 Contribution Graph
