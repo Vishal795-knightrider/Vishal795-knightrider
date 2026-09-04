@@ -1,7 +1,9 @@
-<h1 align="center">Hey 👋, I'm Vishal Kashyap</h1>
-
 <p align="center">
-  <strong>Full Stack Developer · Computer Science Student · Builder</strong>
+  <img
+    src="./profile/banner.png"
+    width="100%"
+    alt="Vishal Kashyap - Full-Stack Developer | AI Enthusiast | Builder"
+  />
 </p>
 
 <p align="center">
@@ -110,7 +112,7 @@ My main focus is full-stack development, backend systems, DSA, and exploring AI/
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=Vishal795-knightrider&theme=tokyonight&hide_border=true"
-    width="90%"
+    width="60%"
     alt="Vishal's GitHub Streak"
   />
 </p>
