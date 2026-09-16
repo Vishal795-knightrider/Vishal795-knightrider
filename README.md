@@ -90,14 +90,14 @@ My main focus is full-stack development, backend systems, DSA, and exploring AI/
   <tr>
     <td align="center" width="50%">
       <img
-        src="./profile/stats.svg"
+        src="https://githubstats-pi-dun.vercel.app/api?username=Vishal795-knightrider&show_icons=true&theme=tokyonight&hide_border=true"
         width="100%"
         alt="Vishal's GitHub Stats"
       />
     </td>
     <td align="center" width="50%">
       <img
-        src="./profile/top-langs.svg"
+        src="https://githubstats-pi-dun.vercel.app/api/top-langs/?username=Vishal795-knightrider&layout=compact&theme=tokyonight&hide_border=true"
         width="100%"
         alt="Vishal's Top Languages"
       />
@@ -105,13 +105,11 @@ My main focus is full-stack development, backend systems, DSA, and exploring AI/
   </tr>
 </table>
 
-<br/>
-
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Vishal795-knightrider&theme=tokyonight&hide_border=true"
+    src="https://treak-stats.vercel.app?user=Vishal795-knightrider&theme=tokyonight&hide_border=true"
     width="60%"
     alt="Vishal's GitHub Streak"
   />
@@ -123,12 +121,11 @@ My main focus is full-stack development, backend systems, DSA, and exploring AI/
 
 <p align="center">
   <img
-    src="./profile/activity-graph.svg"
+    src="https://activitygraph-chi.vercel.app/graph?username=Vishal795-knightrider&theme=tokyo-night&hide_border=true"
     width="100%"
     alt="Vishal's 30-day GitHub Activity"
   />
 </p>
-
 
 
 <p align="center">
