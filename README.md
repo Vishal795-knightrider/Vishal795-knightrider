@@ -84,27 +84,6 @@ My main focus is full-stack development, backend systems, DSA, and exploring AI/
 </p>
 
 
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img
-        src="https://githubstats-pi-dun.vercel.app/api?username=Vishal795-knightrider&show_icons=true&theme=tokyonight&hide_border=true"
-        width="100%"
-        alt="Vishal's GitHub Stats"
-      />
-    </td>
-    <td align="center" width="50%">
-      <img
-        src="https://githubstats-pi-dun.vercel.app/api/top-langs/?username=Vishal795-knightrider&layout=compact&theme=tokyonight&hide_border=true"
-        width="100%"
-        alt="Vishal's Top Languages"
-      />
-    </td>
-  </tr>
-</table>
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -114,9 +93,7 @@ My main focus is full-stack development, backend systems, DSA, and exploring AI/
     alt="Vishal's GitHub Streak"
   />
 </p>
-
 <br/>
-
 ## 📈 GitHub Activity
 
 <p align="center">
